@@ -4,25 +4,6 @@
 
 This Rust program implements univariate linear regression using gradient descent to optimize the parameters (slope and intercept) of the regression line. Univariate linear regression is a method used to model the relationship between a single independent variable and a dependent variable.
 
-## Usage
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-
-    ```bash
-    git clone https://github.com/your-username/linear_regression.git
-    ```
-
-2. **Navigate to the Project Directory**: Enter the project directory.
-
-    ```bash
-    cd linear_regression
-    ```
-
-3. **Build and Run**: Build and run the Rust program.
-
-    ```bash
-    cargo run
-    ```
 
 ## Description
 
